@@ -1,0 +1,3 @@
+# AWS DynamoDB using NodeJS and Express
+
+DynamoDB is a high-performance NoSQL database service offered by AWS as a part of its AWS Cloud Stack. It is quite popular for its scalability and performance and is used in usecases which require real-time data intensive applications such as Gaming, Leaderboards and so on. AWS also provides libraries for various popular programming stacks to connect and work with DynamoDB. In this project, we will see how we can connect and work with DynamoDB in a NodeJS application.
